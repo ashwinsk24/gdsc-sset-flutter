@@ -1,6 +1,6 @@
-# myfirstapp
+# namer-app
 
-A new Flutter project.
+A new Flutter project for Introduction to Flutter session by GDSC SSET.
 
 ## Getting Started
 
